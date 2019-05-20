@@ -22,4 +22,4 @@ comments: false
 
 At the moment, I will only be reachable through email or github. I may decide to add other contact options in the future! :)
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
