@@ -11,9 +11,6 @@ comments: false
 * I've always wanted to have a personal blog, but i've never had the courage to reveal myself to others online.
 * I enjoy drawing (mostly digital), music production, and computer programming (weird mix huh?). 
 
-
-## Preview
-
 {% capture images %}
     ../assets/img/mugonbooks.jpg
 {% endcapture %}
@@ -21,8 +18,8 @@ comments: false
 
 
 
-## Getting Started
+## Contact
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+At the moment, I will only be reachable through email or github, I may decide to add other contact options in the future! :)
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
