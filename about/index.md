@@ -15,7 +15,7 @@ comments: false
 ## Preview
 
 {% capture images %}
-    assets/img/mugonbooks.jpg
+    ../assets/img/mugonbooks.jpg
 {% endcapture %}
 {% include gallery images=images  cols=1 %}
 
