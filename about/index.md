@@ -16,7 +16,11 @@ comments: false
 {% endcapture %}
 {% include gallery images=images  cols=1 %}
 
-
+## Guest Posts
+* I'm open to guest posts, I would love to see the blog grow!
+* Please email the final version of your blog post to me.
+* Please refrain from anything political or highly controversial topics.
+* You will receive credit for any guest posts.
 
 ## Contact
 
