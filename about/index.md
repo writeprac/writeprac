@@ -20,6 +20,6 @@ comments: false
 
 ## Contact
 
-At the moment, I will only be reachable through email or github, I may decide to add other contact options in the future! :)
+At the moment, I will only be reachable through email or github. I may decide to add other contact options in the future! :)
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
