@@ -2,7 +2,7 @@
 layout: page
 title: About WritePrac
 tags: [about, Jekyll, writing]
-date: 2016-03-21
+date: 2019-05-19
 comments: false
 ---
 
