@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apps I use to stay productive!"
+title:  "Apps I use to stay productive"
 date:   2019-05-19
 excerpt: "Apps I use to be productive"
 tag:
@@ -19,10 +19,10 @@ comments: true
 
    Everyone needs a todo list. Not only will they help you remember what your tasks are, but will also help you prioritize them. I use trello because it has a very user-friendly interface and allows you to categorize your tasks.
 {% capture images %}
-    https://raw.githubusercontent.com/writeprac/writeprac.github.io/master/assets/img/trello.jpg
+    https://raw.githubusercontent.com/writeprac/writeprac.github.io/master/assets/img/trello.JPG
 {% endcapture %}
 {% include gallery images=images caption="Trello todo list" cols=1 %}
-    Trello is not only available as a mobile app, but also as a web app. Meaning your todo lists can be viewed and edited from not only your phone, but also your PC/laptop.
+  Trello is not only available as a mobile app, but also as a web app. Meaning your todo lists can be viewed and edited from not only your phone, but also your PC/laptop.
     
 ## 2) [Discord](https://https://discordapp.com/)
 
