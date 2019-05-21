@@ -12,7 +12,7 @@ comments: true
 
 ## Productivity
 
-   You get home from school/work, an assignment due the next day. Deciding to be productive, you begin working on it right away. Five minutes in, your work slows and you consider taking a short break.     
+   You get home from school/work, having received an assignment due the next day. Deciding to be productive, you begin working on it right away. Five minutes in, your work slows and you consider taking a short break.     
    *I'll just check my instagram, it'll take max. 5 minutes* you think to yourself as you open the app. You scroll down your feed and check the explore page, enjoying yourself. "Five minutes later", you check the time---30 minutes have passed.      
    *Oh no!* you think to yourself, *how did this happen?*.
 
