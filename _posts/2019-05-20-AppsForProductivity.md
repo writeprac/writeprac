@@ -21,7 +21,7 @@ comments: true
     
 ## 1) [Trello](https://trello.com/en)
 
-   Everyone needs a todo list. Not only will they help you remember what your tasks are, but will also help you prioritize them. I use trello because it has a very user-friendly interface and allows you to categorize your tasks.
+   Everyone needs a todo list. Not only will they help you remember what your tasks are, but will also help you prioritize. I use trello because it has a very user-friendly interface and allows you to categorize your tasks.
 {% capture images %}
     https://raw.githubusercontent.com/writeprac/writeprac.github.io/master/assets/img/trello.JPG
 {% endcapture %}
@@ -30,7 +30,7 @@ comments: true
     
 ## 2) [Discord](https://https://discordapp.com/)
 
-   This may seem counter productive, as Discord notifications may be distracting (they can be disabled). However, Discord is a great way to send messages to friends/co-workers and for coordinating large projects, as it allows private servers with text and video chat. Although Discord is commonly referred to as an app for "gamers", it can be useful for many other things.
+   This may seem counter productive, as Discord notifications may be distracting (they can be disabled). However, Discord is a great way to send messages to friends/co-workers and for coordinating large (and small) projects, as it allows private servers with text and video chat. Although Discord is commonly referred to as an app for "gamers", it can be useful for many other things.
     
 
 {% capture images %}
