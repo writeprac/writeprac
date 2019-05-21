@@ -12,10 +12,13 @@ comments: true
 
 ## Productivity
 
-   You get home from school/work, an assignment due the next day. Deciding to be productive, you begin working on it right away. Five minutes in, your work slows and you consider taking a short break. 
-*I'll just check my instagram, it'll take max. 5 minutes* you think to yourself as you open the app. You scroll down your feed and check the explore page, enjoying yourself. Five minutes later, you check the time---30 minutes have passed. 
+   You get home from school/work, an assignment due the next day. Deciding to be productive, you begin working on it right away. Five minutes in, your work slows and you consider taking a short break.
+   
+*I'll just check my instagram, it'll take max. 5 minutes* you think to yourself as you open the app. You scroll down your feed and check the explore page, enjoying yourself. "Five minutes later", you check the time---30 minutes have passed. 
+
 *Oh no!* you think to yourself, *how did this happen?*.
-    Everybody has experienced this at least once, where you lost tack of time and before you know it, an hour has passed. I, personally, have really struggled with being productive, as I am a heavy procrastinator and struggle staying on task. To help with this, I use two apps that have helped me stay on task, and remember my assignments.
+
+   Everybody has experienced this at least once, where you lost tack of time and before you know it, an hour has passed. I, personally, have really struggled with being productive, as I am a heavy procrastinator and struggle staying on task. To help with this, I use two apps that have helped me stay on task, and remember my assignments.
     
 ## 1) [Trello](https://trello.com/en)
 
