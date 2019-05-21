@@ -17,7 +17,7 @@ comments: true
    *Oh no!* you think to yourself, *how did this happen?*.
 
    
-   Everybody has experienced this at least once, where you lost tack of time and before you know it, an hour has passed. I, personally, have really struggled with being productive, as I am a heavy procrastinator and struggle staying on task. To help with this, I use two apps that have helped me stay on task, and remember my assignments.
+   Everybody has experienced this at least once, where you lost tack of time and before you know it, an hour has passed. I, personally, have really struggled with being productive, as I am a heavy procrastinator and struggle staying on task. To help with this, I use two apps that have helped me stay on task, remember my assignments, and work in a group.
     
 ## 1) [Trello](https://trello.com/en)
 
